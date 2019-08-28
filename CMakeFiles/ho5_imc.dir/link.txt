@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ho5_imc.dir/ho5_imc.cpp.o  -o ho5_imc libimc.a libudp.a 
